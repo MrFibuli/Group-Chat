@@ -2,7 +2,7 @@
 
 About
 
-Welcome to our Friends-Only Q&A Newsletter, GroupChat! This is a fun, community-driven newsletter where we post questions, you share your answers, and we compile everything into a digest for all subscribers to enjoy. Think of it as an #interactive group chat, but in newsletter form!
+Welcome to our Friends-Only Q&A Newsletter, GroupChat! This is a fun, community-driven newsletter where we post questions, you share your answers, and we compile everything into a digest for all subscribers to enjoy. Think of it as an interactive group chat, but in newsletter form!
 
 How It Works
 
